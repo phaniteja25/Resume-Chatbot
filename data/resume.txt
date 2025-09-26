@@ -1,0 +1,83 @@
+PERSONAL INFORMATION
+Name: Saimanikanta Phani Teja U
+Title: Software Developer
+Email: [phanitejau@gmail.com](mailto:phanitejau@gmail.com)
+Phone: +1 (341) 206-5185
+Location: Dallas, TX
+LinkedIn: [linkedin.com/in/phanitejau](https://www.linkedin.com/in/phanitejau)
+GitHub: *(Not provided in resume – you can share if you’d like it added)*
+
+PROFESSIONAL SUMMARY
+Software developer proficient in building integrated enterprise platforms with consistent design and seamless functionality. Experienced in developing web, mobile, and cloud-based applications through internships at Paycom and Cosups Pvt Ltd. Passionate about leveraging technical skills in web and mobile development to drive innovation and deliver impactful software solutions.
+
+
+
+TECHNICAL SKILLS
+Programming Languages: Java, Python, C, TypeScript, C#
+Web Technologies: HTML, CSS, React, Streamlit, Node.js, Next.js, .NET, Spring Boot
+Databases: MySQL, MongoDB, PostgreSQL
+Tools & Platforms: GitHub, Git, Confluence, JIRA, Jenkins, Postman, AWS, GCP
+Testing: Selenium, Jest
+Courses: Advanced Software Engineering, Databases, Software Testing, Cloud Computing, Algorithms, Data Structures
+
+
+
+WORK EXPERIENCE
+
+*Software Developer Intern* at **Paycom**, Irving, TX, USA (May 2025 – Aug 2025)
+
+* Built a configuration-driven platform for seamless form rendering across enterprise systems.
+* Developed dynamic frontend using React with React Router and Context API.
+* Designed RESTful APIs in .NET Core MVC for fetching JSON configurations.
+* Delivered scalable unified portal reducing dev effort and speeding form creation.
+* Built Admin interface for managing configuration files.
+
+*Technical Assistant* at **UTA Office of Information Technology**, Arlington, TX, USA (Jan 2025 – May 2025)
+
+* Configured and onboarded Windows/macOS devices using Intune and Autopilot.
+* Performed OS setup, updates, and network enrollment.
+* Maintained documentation of standards and deployment policies.
+* Ensured compliance and consistency in device management.
+
+*Android App Developer Intern* at **Cosups Pvt Ltd**, Hyderabad, India (Dec 2020 – Jun 2021)
+
+* Developed full-featured Android app for event management using Java, SQL, MVC.
+* Increased client satisfaction by 30% through streamlined workflows.
+* Designed intuitive UI/UX with Adobe XD.
+* Conducted end-to-end app lifecycle management and testing.
+
+
+
+EDUCATION
+Master of Science in Computer Science
+The University of Texas at Arlington (Jan 2024 – Dec 2025)
+GPA: 4.0
+
+Bachelor of Technology in Information Technology
+JNTUH, Hyderabad, Telangana, India (Aug 2019 – Jun 2023)
+CGPA: 3.56/4.0
+
+
+
+PROJECTS
+
+*Nutrinova – Personalized Nutrition & Meal Planning App* (2024)
+
+* AI-powered nutrition tracking with personalized meal recommendations.
+* Built using Google Gemini API, JWT-secured backend, Docker, Railway.app, Supabase, Vercel.
+* Tested with JUnit and Selenium.
+
+*Spotilitics – Cloud-based Spotify Music Insights Platform* (2024)
+
+* Designed scalable ETL pipeline using GCP to process Spotify API data.
+* Built dashboard with Streamlit for analyzing listening behavior and preferences.
+
+*Finflow – Personal Finance Tracker* (2023)
+
+* Android app for student budget management, bill reminders, and expense analysis.
+* Integrated stock watchlist and news viewer with MarketWatch API.
+
+
+
+INTERESTS AND GOALS
+Interested in software development, cloud platforms, and full-stack applications. Career goal is to become a highly skilled software engineer contributing to enterprise-scale systems, innovative products, and impactful solutions in cloud and AI-driven domains.

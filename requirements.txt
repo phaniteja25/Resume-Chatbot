@@ -1,0 +1,6 @@
+openai==1.108.1
+streamlit==1.28.1
+chromadb==0.4.15
+sentence-transformers==2.2.2
+python-dotenv==1.0.0
+huggingface_hub==0.16.4
