@@ -246,13 +246,13 @@ def display_welcome_screen():
         
         with col_a:
             st.markdown("""
-            **💼 Professional Experience:**
+            **Professional Experience:**
             - Work history and internships
             - Technologies and frameworks used
             - Key achievements and projects
             - Specific company experiences
             
-            **🎓 Education & Skills:**
+            **Education & Skills:**
             - Academic background
             - Technical skills and programming languages
             - Certifications and relevant coursework
@@ -260,13 +260,13 @@ def display_welcome_screen():
         
         with col_b:
             st.markdown("""
-            **🚀 Projects & Development:**
+            *Projects & Development:**
             - Personal and academic projects
             - Mobile app development
             - Web development experience
             - Cloud and database technologies
             
-            **🎯 Career & Goals:**
+            **Career & Goals:**
             - Career objectives and interests
             - Industry preferences
             - Professional strengths
@@ -296,14 +296,14 @@ def display_welcome_message():
     
     with st.chat_message(name="assistant", avatar="💼"):
         st.markdown("""
-        👋 **Hi! I'm Saimanikanta's AI resume assistant.**
+        👋 **Hi! I'm Teja's AI resume assistant.**
         
         I can answer questions about:
-        - 💻 My technical skills and programming experience
-        - 🏢 My work experience and internships  
-        - 🎓 My educational background
-        - 🚀 My projects and achievements
-        - 🎯 My career goals and interests
+        -  My technical skills and programming experience
+        -  My work experience and internships  
+        -  My educational background
+        -  My projects and achievements
+        -  My career goals and interests
         
         **What would you like to know about my background?**
         """)
