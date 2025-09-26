@@ -213,10 +213,10 @@ def setup_sidebar():
     
         st.markdown('''
                 This AI Chatbot is powered by
-                    - 🧠 **Google Gemini 2.5 Flash Lite**
-                    - 🔍 **ChromaDB Vector Search** 
-                    - 🤖 **Sentence Transformers**
-                    - ⚡ **Streamlit Interface**
+                    - **Google Gemini 2.5 Flash Lite**
+                    - **ChromaDB Vector Search** 
+                    - **Sentence Transformers**
+                    - **Streamlit Interface**
                     
                     Ask any question about Teja's Resume
                 ''')
